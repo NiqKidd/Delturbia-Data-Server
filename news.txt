@@ -1,2 +1,18 @@
-TEST NEWS 2
-Teto invasion is coming
+UPDATE 2.0 IS HERE!
+
+After 8 months of development, the long-awaited update has finally arrived.
+
+- Remade the entire mod in Stable Decomp
+- A new area awaits: Rainfall Lake
+- Brand new world map for Adventure Mode
+- Area 1 reworks and visual upgrades
+- Mini-games are now playable, with new mini-games too!  
+- Added an Archive section to the Suburban Almanac  
+- You can now play in Widescreen (enable it in Settings)  
+- Added Hard Mode for an extra challenge  
+- Added a secret mini-game... shhhh...  
+- Balance changes from previous versions  
+- Fixed Seed Bank keybinds
+
+I hope you all have fun with this update.  
+Stay tuned for the next one!
