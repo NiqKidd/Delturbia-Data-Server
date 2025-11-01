@@ -1,3 +1,2 @@
-TEST NEWS\n
-\n
+TEST NEWS
 this is just a test.
