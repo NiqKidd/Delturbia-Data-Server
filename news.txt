@@ -1,2 +1,2 @@
-TEST NEWS
-this is just a test.
+TEST NEWS 1
+This is just a test.
