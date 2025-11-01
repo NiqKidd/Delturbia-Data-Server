@@ -10,7 +10,6 @@ After 8 months of development, the long-awaited update has finally arrived.
 - Added an Archive section to the Suburban Almanac  
 - You can now play in Widescreen (enable it in Settings)  
 - Added Hard Mode for an extra challenge  
-- Added a secret mini-game... shhhh...  
 - Balance changes from previous versions  
 - Fixed Seed Bank keybinds
 
