@@ -12,6 +12,7 @@ After 8 months of development, the long-awaited update has finally arrived.
 - Added Hard Mode for an extra challenge  
 - Balance changes from previous versions  
 - Bug Fixes
+- And More...
 
 I hope you all have fun with this update.  
 Stay tuned for the next one!
