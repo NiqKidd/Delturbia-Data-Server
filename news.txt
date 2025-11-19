@@ -1,6 +1,6 @@
 UPDATE 2.0 IS HERE!
 
-After 8 months of development, the long-awaited update has finally arrived.
+After 6 months of development, the long-awaited update has finally arrived.
 
 - Remade the entire mod in Stable Decomp
 - A new area awaits: Rainfall Lake
